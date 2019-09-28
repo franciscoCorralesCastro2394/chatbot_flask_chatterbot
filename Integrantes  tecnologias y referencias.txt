@@ -1,0 +1,19 @@
+Integrantes : Francisco Corrales Castro
+
+Tecnologias Usadas 
+1: Flask 
+2: Flask_socketio
+3: ChatterBot
+4: Python
+5: jquery
+6: css
+
+
+Referencias: 
+
+https://www.youtube.com/watch?v=71DZYl4Q4o8
+https://github.com/gunthercox/ChatterBot
+https://socket.io/
+https://github.com/chamkank/flask-chatterbot 
+https://github.com/gunthercox/ChatterBot/issues/1708
+https://www.python.org/downloads/release/python-374/
